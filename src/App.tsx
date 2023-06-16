@@ -1,11 +1,10 @@
-import Header from './components/Header';
-import './App.css'
+import TopBar from './components/Topbar/Topbar';
 
 function App() {
   return (
     <>
       <div>
-        <Header />
+        <TopBar />
       </div>
     </>
   )
